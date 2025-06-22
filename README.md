@@ -4,7 +4,7 @@ A modern, responsive portfolio website showcasing my skills as a Minecraft devel
 
 ## 🚀 Live Demo
 
-Visit the live site: [https://quiet-swan-408740.netlify.app](https://quiet-swan-408740.netlify.app)
+Visit the live site: [https://jamie.bcx.lol](https://jamie.bcx.lol)
 
 ## 🛠️ Built With
 
@@ -114,7 +114,7 @@ The portfolio follows modern design principles with:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License]([LICENSE](https://en.wikipedia.org/wiki/MIT_License)).
 
 ## 🤝 Contributing
 
